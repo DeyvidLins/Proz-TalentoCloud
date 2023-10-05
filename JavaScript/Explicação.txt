@@ -1,0 +1,5 @@
+Utiliza JavaScript, porque na página de login, utiliza uma validação, de acordo com os e-mails já registrado no banco de dados.
+Caso exista retorna para próxima página, caso não emite uma mensagem de erro (Conforme o print).
+
+
+
