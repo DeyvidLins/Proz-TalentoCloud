@@ -1,0 +1,6 @@
+Atom Beautify: 
+	Oferece formatação automática para diversos tipos de código, incluindo JavaScript.
+JsPrettier: 
+	Integração com o Prettier para formatação automática.
+WebStorm:
+	O WebStorm já inclui muitos recursos embutidos para indentação e autocompletar, tornando plugins adicionais menos necessários.
